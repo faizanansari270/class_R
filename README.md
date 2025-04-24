@@ -7,10 +7,12 @@
 <h2>git status </h2>
 <h3>git commit -m "massage" </h3>
 <h4>git clone -------"URL" </h4>
-<h5>git checkout -b "branchname"</h5>
+<h5>git checkout -b "branch_name"</h5>
 <h6>git push origin -----"branch_name" </h6>
 <b>git pull origin</b>
-<i>git checkout branchname by us</i>
+<i>git checkout branch_name by us</i>
 <u>git commit </u>
+<p>git branch</p>
+
 </body>
 </html>
